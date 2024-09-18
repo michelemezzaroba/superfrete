@@ -1,7 +1,7 @@
 # Projeto de Testes de Cálculo de Frete - Cypress
 
-Este projeto contém automação de testes desenvolvida em Cypress para validar o cálculo de frete no site[SuperFrete](https://web.superfrete.com/). 
-Os testes incluem cenários de sucesso e alternativos, garantindo que o cálculo de frete funcione corretamente para diversas dimensões de pacotes e CEPs.
+Este projeto contém automação de testes desenvolvida em Cypress para validar o cálculo de frete no site[SuperFrete ](https://web.superfrete.com/). 
+
 
 ## Pré-requisitos
 
@@ -15,13 +15,10 @@ Para executar este projeto localmente, você precisará:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/michelemezzaroba/superfrete.git
     ```
 
-2. Acesse o diretório do projeto:
-    ```bash
-    cd projeto-cypress
-    ```
+2. Acesse o diretório do projeto   
 
 3. Instale as dependências do projeto:
     ```bash
